@@ -1,0 +1,15 @@
+{
+    "device_id": null,
+    "monkey_events": 600,
+    "monitor_duration": 60,
+    "interval": 30,
+    "threshold": 50,
+    "target_package": "com.android.chrome",
+    "monkey_params": {
+        "throttle": 100,
+        "ignore_crashes": true,
+        "ignore_timeouts": true,
+        "monitor_native_crashes": true,
+        "verbose": 3
+    }
+}
